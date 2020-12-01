@@ -2,9 +2,6 @@
 
 Hi, I am a .NET developer/architect with over 30 years of experience, especially in .NET. Currently teaching @ [U2U](https://www.u2u.be) all kinds of courses on .NET, including Patterns, .NET Core. I also like to keep busy with windows/web development, Clean Architecture, Domain Driven Design and Security. I also know my way around Azure DevOps😄.
 
-![![Build status](https://dev.azure.com/u2utraining/PartsUnlimited.Pipelines/_apis/build/status/Demos/DesignerDemo)](https://dev.azure.com/u2utraining/PartsUnlimited.Pipelines/_apis/build/status/Demos/DesignerDemo)
-
-
 
 
 
