@@ -1,6 +1,6 @@
 # About Peter Himschoot
 
-Hi, I am a .NET developer/architect with over 30 years of experience, especially in .NET. Currently teaching @ [U2U](https://www.u2u.be) all kinds of courses on .NET, including Patterns, .NET Core. I also like to keep busy with windows/web development, Clean Architecture, Domain Driven Design and Security, and I love speaking at conferences. I also know my way around Azure DevOps. The author of [Microsoft Blazor](https://link.springer.com/book/10.1007/978-1-4842-7845-1), published by Apress.
+Hi, I am a .NET developer/architect with over 30 years of experience, especially in .NET. Currently teaching @ [U2U](https://www.u2u.be) all kinds of courses on .NET, including Patterns, .NET Core. I also like to keep busy with windows/web development, Clean Architecture, Domain Driven Design and Security, and I love speaking at conferences. I also know my way around DevOps, including Azure DevOps and GitHub. The author of [Microsoft Blazor](https://link.springer.com/book/10.1007/978-1-4842-7845-1), published by Apress.
 
 
 <!--
